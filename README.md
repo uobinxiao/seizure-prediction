@@ -11,4 +11,4 @@ The result is not deterministic due to the limition of tensorflow. So the best w
 [scipy](https://github.com/scipy/scipy)
 
 ## How to run
-python -m kaggleSolution.kaggleSolution
+python Train.py
