@@ -1,0 +1,19 @@
+{
+	"resampleFrequency": 400, 
+	"bandNum": 8, 
+	"processedDataPath": "/home/xiaobin/DISK/epilepsy_data/train_data/contest1/", 
+	"rawDataPath": "/home/xiaobin/DISK/epilepsy_data/contest1/", 
+	"savePath": "submissions/contest1/",
+	"splitNum": 10,
+	"timeSlotLength": 30,
+	"timeSlotNum": 10, 
+	"batch_size": 128, 
+	"dropout": 0.7, 
+	"l2": 0.001, 
+	"nb_epoch": 20000, 
+	"nb_filter": 128, 
+	"lr": 0.01, 
+	"output1": 64, 
+	"output2": 64, 
+	"name": "Dog_5"
+}

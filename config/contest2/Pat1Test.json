@@ -1,0 +1,19 @@
+{
+	"resampleFrequency": 400, 
+	"bandNum": 8, 
+	"processedDataPath": "/home/xiaobin/DISK/epilepsy_data/train_data/contest2/", 
+	"rawDataPath": "/home/xiaobin/DISK/epilepsy_data/", 
+	"savePath": "kaggleSolution/submissions/",
+	"splitNum": 10,
+	"timeSlotLength": 60,
+	"timeSlotNum": 10, 
+	"batch_size": 128, 
+	"dropout": 0.2, 
+	"l2": 0.001, 
+	"nb_epoch": 1500, 
+	"nb_filter": 128, 
+	"lr": 0.01, 
+	"output1": 128, 
+	"output2": 128, 
+	"name": "Pat1Test"
+}
